@@ -6,7 +6,7 @@
 #include <iostream>
 #include <string>
 #include <sstream>
-//IDEJA: FRIEND FUNKCIJA ZA NOVI SCREEN ZBOG BODOVA FRIEND GETPOINTS();
+
 Game::Game()
 {
     isPlay=true;
